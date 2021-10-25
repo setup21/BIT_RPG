@@ -1,0 +1,6 @@
+sprite : https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+font : https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059
+typing Sound : https://freesound.org/people/crz1990/sounds/135872/
+StartScene Sound : https://soundcloud.com/ashamaluevmusic/nature?in=ashamaluevmusic/sets/piano-music
+↑저작권 무료아님, 교체필요
+쿠키런 font : https://www.cookierunfont.com/#section7
